@@ -1,0 +1,14 @@
+com.ubs.backend.classes
+com.ubs.backend.classes.database
+com.ubs.backend.classes.database.dao
+com.ubs.backend.classes.database.dao.questions
+com.ubs.backend.classes.database.dao.statistik
+com.ubs.backend.classes.database.dao.statistik.time
+com.ubs.backend.classes.database.questions
+com.ubs.backend.classes.database.statistik
+com.ubs.backend.classes.database.statistik.times
+com.ubs.backend.classes.enums
+com.ubs.backend.classes.instructions
+com.ubs.backend.demo
+com.ubs.backend.services
+com.ubs.backend.servlets
