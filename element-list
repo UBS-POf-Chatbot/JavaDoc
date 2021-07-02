@@ -1,3 +1,5 @@
+com.ubs.backend.annotations.json
+com.ubs.backend.annotations.json.handlers
 com.ubs.backend.classes
 com.ubs.backend.classes.database
 com.ubs.backend.classes.database.dao
