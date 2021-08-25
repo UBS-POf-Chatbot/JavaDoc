@@ -11,6 +11,9 @@ com.ubs.backend.classes.database.statistik
 com.ubs.backend.classes.database.statistik.times
 com.ubs.backend.classes.enums
 com.ubs.backend.classes.instructions
+com.ubs.backend.classes.instructions.Statistics
+com.ubs.backend.classes.instructions.Statistics.AmountAnswers
 com.ubs.backend.demo
 com.ubs.backend.services
 com.ubs.backend.servlets
+com.ubs.backend.util
