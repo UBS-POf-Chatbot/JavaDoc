@@ -14,6 +14,7 @@ com.ubs.backend.classes.instructions
 com.ubs.backend.classes.instructions.Statistics
 com.ubs.backend.classes.instructions.Statistics.AmountAnswers
 com.ubs.backend.demo
+com.ubs.backend.filters
 com.ubs.backend.services
 com.ubs.backend.servlets
 com.ubs.backend.util
